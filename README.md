@@ -1,11 +1,12 @@
 <h3 style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Winky+Rough&weight=700&color=0047AB&size=50&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hello+Runner%2C+welcome+to+PaceFinder">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=700&color=000000&size=50&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hello+Runner%2C+welcome+to+PaceFinder">
 </h3>
 
 
 ---
 <h1 align="center">
-PaceFinder, Your Running Shoes Recommender System
+PaceFinder<br>
+Your Running Shoes Recommender System
 </h1>
 
 <p align="center">
@@ -19,14 +20,14 @@ PaceFinder, Your Running Shoes Recommender System
 
 ## 📖 Problem Background 
 
-Tren olahraga lari di Indonesia, khususnya di Jakarta, mengalami peningkatkan yang signifikan untuk beberapa tahun terakhir dan telah menjadi salah satu cabang olahraga yang paling populer saat ini [1-4]. Tercatat ada hampir 80 event lari yang diadakan hanya di bulan Oktober menunjukan lari bukan hanya sekadar olahragan, namun telah menjadi bagian dari gaya hidup masyarakat Indonesia, beberapa event yang diadakan di Jakarta diantaranya adalah Alfamart Run 2025, Jakarta Running Festival, Livin’ by Mandiri RUNFEST Jakarta, Crystalin Run Xperience 2025, dan banyak lainnya [5]. 
+Tren olahraga lari di Indonesia, khususnya di Jakarta, mengalami peningkatkan yang signifikan untuk beberapa tahun terakhir dan telah menjadi salah satu cabang olahraga yang paling populer saat ini. Tercatat ada hampir 80 event lari yang diadakan hanya di bulan Oktober menunjukan lari bukan hanya sekadar olahragan, namun telah menjadi bagian dari gaya hidup masyarakat Indonesia, beberapa event yang diadakan di Jakarta diantaranya adalah Alfamart Run 2025, Jakarta Running Festival, Livin’ by Mandiri RUNFEST Jakarta, Crystalin Run Xperience 2025, dan banyak lainnya. 
 
 Antusiasme dan “FOMO” masyarakat dalam melakukan olahraga ini telah menyebar tidak hanya ke komunitas pelari, namun kepada masyarakat yang ingin memulai gaya hidup sehat dengan olahraga lari. Hal ini tentu meningkatkan kebutuhan akan perlengkapan lari yang nyaman dan fungsional, dan tentu kebutuhan utama yang paling banyak diperlukan adalah sepatu running. Khususnya untuk para pelari pemula, pemilihan sepatu pertama seringkali menjadi momen yang membingungkan karena masih belum ada pengalaman sebelumnya. Belum lagi jika melihat pasaran yang menawarkan banyaknya pilihan sepatu, mulai dari merek, tipe, tingkat bantalan, hingga fitur teknologi terbaru, menyebabkan pemilihan sepatu pertama menjadi semakin rumit. Oleh karena itu dibutuhkan sebuah sistem rekomendasi untuk membantu para pelari khususnya pelari pemula untuk membantu menyederhanakan “experience” pemilihan sepatu yang paling cocok berdasarkan dengan kebutuhan dan karakteristik pribadi.
 
 
 ## 🎯 Objective & User
 
-Proyek ini bertujuan untuk membangun sistem rekomendasi sepatu lari menggunakan pendekatan NLP yang menggunakan data scrapping dari Amazon untuk brand sepatu yang paling popular di Indonesia [6-7]. Aplikasi ini akan membantu:
+Proyek ini bertujuan untuk membangun sistem rekomendasi sepatu lari menggunakan pendekatan NLP yang menggunakan data scrapping dari Amazon untuk brand sepatu yang paling popular di Indonesia. Aplikasi ini akan membantu:
 *	Runner (khususnya pemula) mendapatkan rekomendasi sepatu yang sesuai dengan profil dan kebutuhannya.
 *	Brand atau toko olahraga meningkatkan pengalaman berbelanja pelanggan yang diharapkan dapat meningkatkan penjualan.
 
