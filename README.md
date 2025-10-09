@@ -99,7 +99,7 @@ Dataset bersih terdiri dari 8 kolom dan 609 baris.
 * Aplikasi PaceFinder untuk Rekomendasi Sepatu lari dapat diakses melalui link berikut: \
 https://huggingface.co/spaces/waskithag/PaceFinder
 
-Contoh tampilan hasil rekomendasi
+* Contoh tampilan hasil rekomendasi dari PaceFinder:
 <p align="center">
   <img src="./images/contoh_rekomendasi.png" width=400 align="center">
 </p>
