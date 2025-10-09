@@ -95,7 +95,7 @@ Dataset bersih terdiri dari 8 kolom dan 609 baris.
 | 11 | Hugging Face |
 
 ## 🚀 Result
-1. Aplikasi PaceFinder untuk Rekomendasi Sepatu lari dapat diakses melalui link berikut: \
+* Aplikasi PaceFinder untuk Rekomendasi Sepatu lari dapat diakses melalui link berikut: \
 https://huggingface.co/spaces/waskithag/PaceFinder
 
 Contoh tampilan hasil rekomendasi
@@ -103,10 +103,10 @@ Contoh tampilan hasil rekomendasi
   <img src="./images/contoh_rekomendasi.png" width=400 align="center">
 </p
 
-2. Hasil dari analisis data dapat diakses pada link berikut: \
+* Hasil dari analisis data dapat diakses pada link berikut: \
 https://github.com/FTDS-assignment-bay/p2-final-project-pacefinder-rmt-046/blob/main/eda.ipynb
 
-3. Materi presentasi project dapat diakses pada link berikut: \
+* Materi presentasi project dapat diakses pada link berikut: \
 https://docs.google.com/presentation/d/1Hd7haWhrTwkPfDx5ipj8eWtlqA7t0bDKfNtjnyjlOL4/edit?usp=sharing
 
 ## 🧠 Project Member
