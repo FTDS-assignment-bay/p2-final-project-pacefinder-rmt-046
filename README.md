@@ -12,7 +12,7 @@
 Your Running Shoes Recommender System
 </h1>
 
-Deployment: https://huggingface.co/spaces/waskithag/PaceFinder
+Deployment: https://huggingface.co/spaces/waskithag/PaceFinder2
 
 **PaceFinder**  adalah aplikasi berbasis data yang dirancang untuk membantu para pelari, khususnya pelari pemula dalam membantu menemukan sepatu lari yang paling sesuai dengan kebutuhan dan preferensi pribadi mereka. Rekomendasi dalam aplikasi ini berbasiskan NLP dari data hasil scraping dari Amazon untuk berbagai merek sepatu populer di Indonesia. Aplikasi ini akan memberikan rekomendasi sepatu yang sesuai dengan kebutuhan dan rekomendasi user, sistem ini juga dapat digunakan oleh toko/brand olahraga untuk dapat meningkatkan experience berbelanja pelanggan dalam menentukan sepatu idealnya.
 
@@ -97,7 +97,7 @@ Dataset bersih terdiri dari 8 kolom dan 609 baris.
 ## 🚀 Result
 
 * Aplikasi PaceFinder untuk Rekomendasi Sepatu lari dapat diakses melalui link berikut: \
-https://huggingface.co/spaces/waskithag/PaceFinder
+https://huggingface.co/spaces/waskithag/PaceFinder2
 
 * Contoh tampilan hasil rekomendasi dari PaceFinder:
 <p align="center">
