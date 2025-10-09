@@ -80,6 +80,7 @@ Dataset produk terdiri dari 7 kolom dan 783 baris.
 
 | No | Stack |
 | --- | --- |
+<<<<<<< HEAD
 | 1 | Python |
 | 2 | SQL | 
 | 3 | Pandas |
@@ -94,6 +95,19 @@ Dataset produk terdiri dari 7 kolom dan 783 baris.
 | 12 | BS4 |
 | 13 | VSCode |
 | 14 | Hugging Face |
+=======
+| 1 | Python | 
+| 2 | Pandas |
+| 3 | Numpy |
+| 4 | Wordcloud |
+| 5 | NLTK |
+| 6 | SK-Learn |
+| 7 | Streamlit |
+| 8 | ScraperAPI |
+| 9 | BS4 |
+| 10 | VSCode |
+| 11 | Huggin Face |
+>>>>>>> b967acbc3bd11f72cfd600971812dca00b7091f6
 
 ## 🚀 Result
 1. Aplikasi PaceFinder untuk Rekomendasi Sepatu lari dapat diakses melalui link berikut: \
