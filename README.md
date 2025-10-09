@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=700&color=000000&size=50&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hello+Runner%2C+welcome+to+PaceFinder">
 </h3>
 
+---
+
 <p align="center">
   <img src="./images/logo.png" width=400 align="center">
 </p>
----
 <h1 align="center">
 <br>
 Your Running Shoes Recommender System
@@ -41,7 +42,7 @@ Dataset produk terdiri dari 7 kolom dan 783 baris.
 | --- | --- | --- |
 | 1 | Nama produk | String |
 | 2 | Rating | Float | 
-| 3 | Price | String |
+| 3 | Price | Float |
 | 4 | Img_url | String |
 | 5 | Brand | String |
 | 6 | Customer say | String |
@@ -80,22 +81,6 @@ Dataset produk terdiri dari 7 kolom dan 783 baris.
 
 | No | Stack |
 | --- | --- |
-<<<<<<< HEAD
-| 1 | Python |
-| 2 | SQL | 
-| 3 | Pandas |
-| 4 | Numpy |
-| 5 | Seaborn |
-| 6 | Wordcloud |
-| 7 | NLTK |
-| 8 | SK-Learn |
-| 9 | Gensim |
-| 10 | Streamlit |
-| 11 | ScraperAPI |
-| 12 | BS4 |
-| 13 | VSCode |
-| 14 | Hugging Face |
-=======
 | 1 | Python | 
 | 2 | Pandas |
 | 3 | Numpy |
@@ -106,8 +91,7 @@ Dataset produk terdiri dari 7 kolom dan 783 baris.
 | 8 | ScraperAPI |
 | 9 | BS4 |
 | 10 | VSCode |
-| 11 | Huggin Face |
->>>>>>> b967acbc3bd11f72cfd600971812dca00b7091f6
+| 11 | Hugging Face |
 
 ## 🚀 Result
 1. Aplikasi PaceFinder untuk Rekomendasi Sepatu lari dapat diakses melalui link berikut: \
@@ -130,6 +114,5 @@ https://docs.google.com/presentation/d/1Hd7haWhrTwkPfDx5ipj8eWtlqA7t0bDKfNtjnyjl
 | Marvin Yonathan Hadiyanto | Data Engineer | [marvin.yonathan.hadi@gmail.com](mailto:marvin.yonathan.hadi@gmail.com) |
 | Waskitha Ghaziadiyata | Data Scientist | [waskithag@gmail.com](mailto:waskithag@gmail.com) |
 | Angelica Zalisca | Data Analyst | [angelica.keraf@gmail.com](mailto:angelica.keraf@gmail.com) |
-| Muhammad Khairul Akbar |  |  |
 ---
 
