@@ -81,20 +81,17 @@ Dataset produk terdiri dari 7 kolom dan 783 baris.
 
 | No | Stack |
 | --- | --- |
-| 1 | Python |
-| 2 | SQL | 
-| 3 | Pandas |
-| 4 | Numpy |
-| 5 | Seaborn |
-| 6 | Wordcloud |
-| 7 | NLTK |
-| 8 | SK-Learn |
-| 9 | Gensim |
-| 10 | Streamlit |
-| 11 | ScraperAPI |
-| 12 | BS4 |
-| 13 | VSCode |
-| 14 | Huggin Face |
+| 1 | Python | 
+| 2 | Pandas |
+| 3 | Numpy |
+| 4 | Wordcloud |
+| 5 | NLTK |
+| 6 | SK-Learn |
+| 7 | Streamlit |
+| 8 | ScraperAPI |
+| 9 | BS4 |
+| 10 | VSCode |
+| 11 | Huggin Face |
 
 ## 🚀 Result
 
