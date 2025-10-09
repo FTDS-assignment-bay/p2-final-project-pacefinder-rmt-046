@@ -2,17 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=700&color=000000&size=50&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hello+Runner%2C+welcome+to+PaceFinder">
 </h3>
 
-
----
-<h1 align="center">
-PaceFinder<br>
-Your Running Shoes Recommender System
-</h1>
-
 <p align="center">
   <img src="./images/logo.png" width=400 align="center">
 </p>
+---
+<h1 align="center">
+<br>
+Your Running Shoes Recommender System
+</h1>
 
+Deployment: https://huggingface.co/spaces/waskithag/PaceFinder
 
 **PaceFinder**  adalah aplikasi berbasis data yang dirancang untuk membantu para pelari, khususnya pelari pemula dalam membantu menemukan sepatu lari yang paling sesuai dengan kebutuhan dan preferensi pribadi mereka. Rekomendasi dalam aplikasi ini berbasiskan NLP dari data hasil scraping dari Amazon untuk berbagai merek sepatu populer di Indonesia. Aplikasi ini akan memberikan rekomendasi sepatu yang sesuai dengan kebutuhan dan rekomendasi user, sistem ini juga dapat digunakan oleh toko/brand olahraga untuk dapat meningkatkan experience berbelanja pelanggan dalam menentukan sepatu idealnya.
 
@@ -94,22 +93,29 @@ Dataset produk terdiri dari 7 kolom dan 783 baris.
 | 11 | ScraperAPI |
 | 12 | BS4 |
 | 13 | VSCode |
-| 14 | Huggin Face |
+| 14 | Hugging Face |
 
 ## 🚀 Result
+1. Aplikasi PaceFinder untuk Rekomendasi Sepatu lari dapat diakses melalui link berikut: \
+https://huggingface.co/spaces/waskithag/PaceFinder
 
+Contoh tampilan hasil rekomendasi
+<p align="center">
+  <img src="./images/contoh_rekomendasi.png" width=400 align="center">
+</p
+
+2. Hasil dari analisis data dapat diakses pada link berikut: \
+https://github.com/FTDS-assignment-bay/p2-final-project-pacefinder-rmt-046/blob/main/eda.ipynb
+
+3. Materi presentasi project dapat diakses pada link berikut: \
+https://docs.google.com/presentation/d/1Hd7haWhrTwkPfDx5ipj8eWtlqA7t0bDKfNtjnyjlOL4/edit?usp=sharing
 
 ## 🧠 Project Member
 | Nama | Role | Contact |
 | --- | --- | --- |
-| Marvin Yonathan Hadiyanto | Data Engineer | [email](mailto:@gmail.com) |
-| Waskitha Ghaziadiyata | Data Scientist | [email](mailto:@gmail.com) |
-| Angelica Zalisca | Data Analyst | [email](mailto:@gmail.com) |
-| Muhammad Khairul Akbar |  | [email](mailto:@gmail.com) |
-
-
-## Presentation Slide
-
-
+| Marvin Yonathan Hadiyanto | Data Engineer | [marvin.yonathan.hadi@gmail.com](mailto:marvin.yonathan.hadi@gmail.com) |
+| Waskitha Ghaziadiyata | Data Scientist | [waskithag@gmail.com](mailto:waskithag@gmail.com) |
+| Angelica Zalisca | Data Analyst | [angelica.keraf@gmail.com](mailto:angelica.keraf@gmail.com) |
+| Muhammad Khairul Akbar |  |  |
 ---
 
