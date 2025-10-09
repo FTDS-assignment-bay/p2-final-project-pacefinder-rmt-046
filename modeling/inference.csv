@@ -1,0 +1,541 @@
+product,rating,price,brand,gender
+Adidas Fortarun 2.0 Cloudfoam Lace,4.5,43.0,Adidas,Unisex
+Adidas Men's Lightblaze,5.0,27.0,Adidas,Men
+Adidas Men's Lightshift,4.8,40.0,Adidas,Men
+Adidas Men's Run Falcon 5,4.5,56.0,Adidas,Men
+Adidas Men's X_PLR Path,4.7,60.0,Adidas,Men
+Adidas Unisex-Adult Ultraboost 1.0,4.7,111.0,Adidas,Unisex
+Adidas Women's Ultrarun 5,4.4,60.0,Adidas,Women Women
+Adidas Womens Swift Run 22,4.2,48.0,Adidas,Women
+NIKE Men's Air Flight Lite Mid,4.5,60.0,Nike,Men
+NIKE Men's Backboard II Mid Basketball,4.3,60.0,Nike,Men
+NIKE Men's Low,3.5,75.0,Nike,Men
+NIKE Men's RunAllDay,4.5,115.0,Nike,Men Men
+NIKE Women's Tanjun,4.5,80.0,Nike,Women
+NIKE Women's W Zoom Bella 6 Trainers,4.6,79.0,Nike,Women
+NIKE Women's WMNS Zoomx Ultrafly,3.3,131.0,Nike,Women
+New Balance Baby-Boy's 530 Bungee,4.3,65.0,New Balance,Unisex
+New Balance Boy's 574 V1 Lace-up,4.5,47.0,New Balance,Unisex
+New Balance Girl's,4.1,37.0,New Balance,Unisex
+New Balance Men's 1540v3,4.4,118.0,New Balance,Men
+New Balance Men's 2002 Trainers,4.6,135.0,New Balance,Men
+New Balance Men's 410 V8,4.3,70.0,New Balance,Men
+New Balance Men's 515 V3 Classic,4.6,70.0,New Balance,Men
+New Balance Men's 520 V8,4.3,60.0,New Balance,Men
+New Balance Men's 574 Core,4.6,100.0,New Balance,Men Men
+New Balance Men's 608 V5 Casual Comfort Cross Trainer,4.6,64.0,New Balance,Men
+New Balance Men's 680v3,4.4,85.0,New Balance,Men
+New Balance Men's 806 V1 Tennis,4.2,120.0,New Balance,Men
+New Balance Men's 997H V1 Cross Trainer,4.4,95.0,New Balance,Men
+New Balance Men's CT300 V3,4.1,90.0,New Balance,Men
+New Balance Men's Dynasoft Nitrel V6,4.4,53.0,New Balance,Men Men
+New Balance Men's Dynasoft Nitrel V6 Gore-tex,4.0,76.0,New Balance,Men
+New Balance Men's Dynasoft Tektrel V1,4.4,57.0,New Balance,Men
+New Balance Men's Dynasoft Tektrel V1 Suede,4.5,66.0,New Balance,Men
+New Balance Men's Fresh Foam 520 V9,4.4,60.0,New Balance,Men
+New Balance Men's Fresh Foam 680 V7,4.5,90.0,New Balance,Men
+New Balance Men's Fresh Foam 680 V8,4.5,70.0,New Balance,Men
+New Balance Men's Fresh Foam Arishi V3,4.4,75.0,New Balance,Men
+New Balance Men's Fresh Foam Arishi V4 Slip-Resistant,4.2,65.0,New Balance,Men
+New Balance Men's Fresh Foam Arishi V4 Tira Lux,4.5,68.0,New Balance,Men Men
+New Balance Men's Fresh Foam Garoe V1,4.6,88.0,New Balance,Men
+New Balance Men's Fresh Foam Garoé V1 Midcut,4.4,76.0,New Balance,Men
+New Balance Men's Fresh Foam Rcvry V1 Slide,4.2,17.0,New Balance,Men
+New Balance Men's Fresh Foam X 1080 V14,4.4,165.0,New Balance,Men
+New Balance Men's Fresh Foam X 1540 V4,3.4,150.0,New Balance,Men
+New Balance Men's Fresh Foam X 840V1,4.3,79.0,New Balance,Men
+New Balance Men's Fresh Foam X 840f V1,4.4,70.0,New Balance,Men
+New Balance Men's Fresh Foam X 880 V14,4.5,140.0,New Balance,Men
+New Balance Men's Fresh Foam X Cruz V3,4.3,85.0,New Balance,Men
+New Balance Men's Fresh Foam X Evoz V4,4.5,60.0,New Balance,Men Men
+New Balance Men's Fresh Foam X Hierro V7,4.4,46.0,New Balance,Men
+New Balance Men's Fresh Foam X Hierro V8 Gore-tex,4.3,104.0,New Balance,Men
+New Balance Men's Fresh Foam X More V4,4.4,86.0,New Balance,Men
+New Balance Men's Fresh Foam X More V6,4.4,155.0,New Balance,Men
+New Balance Men's FuelCell Propel V5,4.4,88.0,New Balance,Men
+New Balance Men's FuelCell Rebel V5,4.5,145.0,New Balance,Men
+New Balance Men's FuelCell Supercomp Elite V4,4.5,219.0,New Balance,Men Men
+New Balance Men's Made in USA 990v6,4.4,185.0,New Balance,Men
+New Balance Men's Rush V4 Low Lacrosse,3.9,64.0,New Balance,Men
+New Balance Men's/Women's Oxford,4.6,110.0,New Balance,Men
+New Balance Mens 237 V1,4.5,58.0,New Balance,Men
+New Balance Mens 408 V1,4.5,90.0,New Balance,Men
+New Balance Mens Dynasoft Nitrel V6,4.4,60.0,New Balance,Men
+New Balance Mens Fresh Foam Arishi V4Running,4.4,60.0,New Balance,Men
+New Balance Mens Fresh Foam X 1080 V13Running,4.4,111.0,New Balance,Men
+New Balance Mens Fresh Foam X 1440 V1,4.2,65.0,New Balance,Men
+New Balance Mens Fresh Foam X Cruz Artisan V3,4.2,70.0,New Balance,Men
+New Balance Mens Fresh Foam X Garoé V2,4.4,67.0,New Balance,Men
+New Balance Mens Fresh Foam X Hierro V1 Mid-Cut,4.3,55.0,New Balance,Men Men
+New Balance Mens Fresh Foam X Vongo V6,4.4,112.0,New Balance,Men
+New Balance Mens FuelCell 796 V4 Tennis,4.1,75.0,New Balance,Men
+New Balance Mens FuelCell Rebel V4,4.4,91.0,New Balance,Men
+New Balance Mens Minimus Tr V2,4.0,62.0,New Balance,Men
+New Balance Unisex Adult 480 V1,4.5,67.0,New Balance,Unisex
+New Balance Unisex-Adult FuelCell 4040 V7 Turf Trainer Baseball,4.7,72.0,New Balance,Unisex
+New Balance Unisex-Child 1440 V1 Lace-up,4.6,45.0,New Balance,Unisex
+New Balance Unisex-Child Dynasoft 578 V1 Hook & Loop,3.5,45.0,New Balance,Unisex
+New Balance Unisex-Child Dynasoft 578 V1 Lace-up,4.5,40.0,New Balance,Unisex
+New Balance Unisex-Child Dynasoft Nitrel V6 Lace-up,4.3,46.0,New Balance,Unisex
+New Balance Unisex-Child Fresh Foam 625 V1 Lace-up,4.6,53.0,New Balance,Unisex
+New Balance Unisex-Child Fresh Foam Arishi Lux V1 Lace-up,4.7,59.0,New Balance,Unisex
+New Balance Unisex-Child Fresh Foam Arishi V4 Bungee Lace with Top Strap,4.6,44.0,New Balance,Unisex
+New Balance Unisex-Child FuelCell Propel V5 Lace-up,5.0,81.0,New Balance,Unisex
+New Balance Unisex-Child FuelCell V7 Youth Turf-Trainer Baseball,4.8,48.0,New Balance,Unisex
+New Balance Women's 410 V8,4.3,63.0,New Balance,Women
+New Balance Women's 460 V4,4.4,50.0,New Balance,Women
+New Balance Women's 515 V3,4.5,70.0,New Balance,Women
+New Balance Women's 515h V1,4.7,65.0,New Balance,Women
+New Balance Women's 577 V1 Hook and Loop Walking,4.0,57.0,New Balance,Women
+New Balance Women's 608 V5 Casual Comfort Cross Trainer,4.4,60.0,New Balance,Women
+New Balance Women's 877 V1 Walking,4.3,75.0,New Balance,Women
+New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer,4.1,37.0,New Balance,Women
+New Balance Women's Dynasoft Nitrel V5,4.2,75.0,New Balance,Women
+New Balance Women's Dynasoft Nitrel V6 Gore-tex,4.2,89.0,New Balance,Women
+New Balance Women's Dynasoft Tektrel V1,4.2,56.0,New Balance,Women
+New Balance Women's Fresh Foam 510 V6,4.1,60.0,New Balance,Women Women
+New Balance Women's Fresh Foam Arishi V4,3.6,76.0,New Balance,Women
+New Balance Women's Fresh Foam Arishi V4 Tiralux,4.2,52.0,New Balance,Women
+New Balance Women's Fresh Foam Garoe Mid V1,4.2,69.0,New Balance,Women
+New Balance Women's Fresh Foam Garoe V1,4.3,68.0,New Balance,Women
+New Balance Women's Fresh Foam Roav V1,4.3,90.0,New Balance,Women
+New Balance Women's Fresh Foam X 1080 V14,4.4,165.0,New Balance,Women
+New Balance Women's Fresh Foam X 840f V1,4.2,56.0,New Balance,Women
+New Balance Women's Fresh Foam X 880 V12,4.4,116.0,New Balance,Women
+New Balance Women's Fresh Foam X Cruz Artisan V3,3.9,58.0,New Balance,Women Women
+New Balance Women's Fresh Foam X Evoz V4,4.4,86.0,New Balance,Women
+New Balance Women's Fresh Foam X Hierro V1 Mid-Cut,4.2,120.0,New Balance,Women Women
+New Balance Women's Fresh Foam X Hierro V8,4.5,113.0,New Balance,Women
+New Balance Women's Fresh Foam X Kaiha Road V1,4.0,80.0,New Balance,Women
+New Balance Women's Fresh Foam X More V6,4.2,160.0,New Balance,Women
+New Balance Women's Fresh Foam X Vongo V6,4.4,100.0,New Balance,Women
+New Balance Women's FuelCell Summit Unknown V4,4.1,50.0,New Balance,Women
+New Balance Womens 840 V5Running,4.5,116.0,New Balance,Women
+New Balance Womens Fresh Foam X 860 V14,4.6,140.0,New Balance,Women
+New Balance Womens Fresh Foam X Hierro V9,4.3,160.0,New Balance,Women
+New Balance Womens Fresh Foam X More V5,4.4,103.0,New Balance,Women
+New Balance Womens FuelCell 990 V6Sneaker,4.3,170.0,New Balance,Women
+New Balance Womens FuelCell Rebel V3Running,4.3,65.0,New Balance,Women
+Nike,4.5,55.0,Nike,Unisex
+Nike Air Max 90 Gore-TEX Men's Winterized,4.4,95.0,Nike,Men
+Nike Blazer Lolthr,4.4,48.0,Nike,Men
+Nike Downshifter 12,4.6,52.0,Nike,Women
+Nike Downshifter 12 PRM Womens,4.4,81.0,Nike,Women
+Nike Men's Air Jordan 1 Mid,4.6,162.0,Nike,Men
+Nike Men's Air Max 200 Walking,4.4,69.0,Nike,Men
+Nike Men's Air Max 2017,4.4,133.0,Nike,Men
+Nike Men's Air Max 270,4.5,125.0,Nike,Men
+Nike Men's Air Max AP,4.3,70.0,Nike,Men
+Nike Men's Air Max Excee,4.4,96.0,Nike,Men
+Nike Men's Air Max Nuaxis,4.5,91.0,Nike,Men
+Nike Men's Air Monarch IV Training/Workout,4.4,66.0,Nike,Men
+Nike Men's Air Vapormax Plus,4.5,195.0,Nike,Men
+Nike Men's Air Winflo 10 Trainers,4.3,62.0,Nike,Men
+Nike Men's Air Zoom Pegasus 39,4.6,103.0,Nike,Men
+Nike Men's Air Zoom Upturn SC,4.7,67.0,Nike,Men
+Nike Men's Competition Road,4.0,155.0,Nike,Men
+Nike Men's Cortez Textile,4.3,91.0,Nike,Men
+Nike Men's Court Vision Low Next Nature,4.4,81.0,Nike,Men
+Nike Men's Downshifter,4.4,74.0,Nike,Men
+Nike Men's Flex Experience Run 12,4.2,81.0,Nike,Men
+Nike Men's Free Metcon 6 Workout,4.4,27.0,Nike,Men Men
+Nike Men's Free Run 2018,4.5,80.0,Nike,Men
+Nike Men's Gymnastics,4.6,130.0,Nike,Men
+Nike Men's Invincible 3 Road,5.0,119.0,Nike,Men
+Nike Men's Journey Run,4.8,77.0,Nike,Men
+Nike Men's Juniper 2 Nn,4.4,89.0,Nike,Men
+Nike Men's Juniper 2 Nn Low Top,4.5,61.0,Nike,Men
+Nike Men's Laced,4.6,66.0,Nike,Men
+Nike Men's Legend Essential 3 Next Nature,4.3,56.0,Nike,Men
+Nike Men's Nike Air Max Alpha Trainer 5,4.3,91.0,Nike,Men
+Nike Men's P-6000,4.6,91.0,Nike,Men
+Nike Men's Pegasus 5 GORE-TEX Waterproof,4.1,127.0,Nike,Men
+Nike Men's Promina,4.6,66.0,Nike,Men
+Nike Men's Quest 5 Training,4.5,60.0,Nike,Men
+Nike Men's Quest 6 Road,4.2,65.0,Nike,Men
+Nike Men's Race,4.5,114.0,Nike,Men
+Nike Men's React Phantom Run Flyknit 2,4.4,86.0,Nike,Men
+Nike Men's Reax 8 TR Cross Training,4.1,96.0,Nike,Men
+Nike Men's Revolution 6 Trainers,4.4,61.0,Nike,Men
+Nike Men's Revolution 8 Road,4.6,57.0,Nike,Men
+Nike Men's Run Defy Road,4.6,66.0,Nike,Men
+Nike Men's SB Alleyoop,4.4,79.0,Nike,Men
+Nike Men's Sport,4.5,73.0,Nike,Men
+Nike Men's Trainers by,4.3,62.0,Nike,Men
+Nike Men's V5 RNR,4.5,77.0,Nike,Men
+Nike Men's Vomero 17,4.2,125.0,Nike,Men
+Nike Men's Winflo 11 Road,4.3,111.0,Nike,Men
+Nike Men's Women's Revolution 5 Wide,4.6,71.0,Nike,Men
+Nike Men's ZoomX Invincible Run Flyknit 3,4.3,158.0,Nike,Men
+Nike Mens,4.5,65.0,Nike,Men Men Men Men
+Nike Mens Full Force Low,4.6,61.0,Nike,Men
+Nike Mens React Infinity Run Fk 3,4.5,116.0,Nike,Men
+Nike Mens Revolution 7 WideLow,4.3,80.0,Nike,Men
+Nike Run Swift 3,4.4,70.0,Nike,Unisex
+Nike Unisex Adult Precision 7 Basketball,3.9,81.0,Nike,Unisex
+Nike Unisex-Child Flex Runner 4,4.5,51.0,Nike,Unisex
+Nike Unisex-Child Sonic Fly,4.0,73.0,Nike,Unisex
+Nike Unisex-Child Training,4.6,68.0,Nike,Unisex Unisex
+Nike W Air Winflo 10 Women's Road,4.5,80.0,Nike,Women
+Nike Winflo 10 Women's Road,4.2,91.0,Nike,Women
+Nike Women's,4.4,71.0,Nike,Women Women Women
+Nike Women's Air Force 1 Wild,4.2,77.0,Nike,Women
+Nike Women's Air Max 270,4.5,150.0,Nike,Women
+Nike Women's Air Max Excee,4.1,96.0,Nike,Women
+Nike Women's Air Max Portal,4.6,115.0,Nike,Women
+Nike Women's Air Zoom,4.4,72.0,Nike,Women
+Nike Women's Bella 7 Training/Workout,4.2,86.0,Nike,Women
+Nike Women's Competition Road,4.5,84.0,Nike,Women
+Nike Women's Court Vision Low Next Nature,4.5,81.0,Nike,Women
+Nike Women's Cross Training,4.2,74.0,Nike,Women
+Nike Women's Downshifter 13 Road,4.5,61.0,Nike,Women
+Nike Women's Flex Experience Run 12 Road,4.4,53.0,Nike,Women
+Nike Women's Free Metcon 5 Workout,4.5,108.0,Nike,Women
+Nike Women's Free Metcon 6 Workout,4.4,106.0,Nike,Women
+Nike Women's Invincible 3,4.2,118.0,Nike,Women
+Nike Women's Low-top,4.5,57.0,Nike,Women Women
+Nike Women's Pegasus 4 Gore-TEX Waterproof,4.6,62.0,Nike,Women
+Nike Women's Race,4.3,87.0,Nike,Women
+Nike Women's React Escape Run 2,4.5,76.0,Nike,Women
+Nike Women's Reactx Infinity Rn 4,4.2,131.0,Nike,Women
+Nike Women's Renew Ride 3,4.2,77.0,Nike,Women Women
+Nike Women's Run Swift 3 Road,4.6,81.0,Nike,Women
+Nike Women's Tanjun,4.5,76.0,Nike,Women
+Nike Women's Uplift SC,4.6,66.0,Nike,Women
+Nike Women's Vaporfly 3 Racing,4.3,194.0,Nike,Women
+Nike Women's Waffle Debut,4.0,76.0,Nike,Women
+Nike Women's Winflo 11 Road,4.5,78.0,Nike,Women
+Nike Women's Zoom HyperAce 2 Volleyball,4.5,44.0,Nike,Women
+Nike Womens Low-Top,4.5,60.0,Nike,Women
+Nike Womens Phoenix Waffle,4.4,58.0,Nike,Women
+PUMA Cell Rapid Mens,4.4,60.0,Puma,Men
+PUMA Men's 8 Pack Low Cut Socks,4.7,12.0,Puma,Men
+PUMA Men's Alexion Cross Trainer,4.5,60.0,Puma,Men
+PUMA Men's Amplifier,4.4,45.0,Puma,Men Men
+PUMA Men's Attacanto Indoor Trainer Soccer,4.2,38.0,Puma,Men
+PUMA Men's Axelion Cross-Trainer,4.5,60.0,Puma,Men Men
+PUMA Men's BMW Motorsport Drift Cat Decima,4.4,55.0,Puma,Men
+PUMA Men's Caven 2.0,4.5,67.0,Puma,Men Men
+PUMA Men's Club Ii Era,4.5,60.0,Puma,Men
+PUMA Men's Easy Rider Vintage,4.7,62.0,Puma,Men Men
+PUMA Men's Flexfocus Lite Modern Cross Training,4.5,55.0,Puma,Men
+PUMA Men's Foreverrun Nitro,4.4,95.0,Puma,Men
+PUMA Men's Hypnotic Leather,4.6,41.0,Puma,Men
+PUMA Men's Ignite Elevate Wide Golf,4.2,64.0,Puma,Men
+PUMA Men's Inhale,4.6,35.0,Puma,Men
+PUMA Men's Inverse,4.8,45.0,Puma,Men
+PUMA Men's Mercedes AMG Petronas F1 Drift Cat Decima,4.3,50.0,Puma,Men
+PUMA Men's Pacer Future,4.4,59.0,Puma,Men
+PUMA Men's Redeem Profoam,4.6,40.0,Puma,Men
+PUMA Men's Scend Pro,4.6,60.0,Puma,Men
+PUMA Men's Softride Carson,4.4,60.0,Puma,Men
+PUMA Men's Softride Enzo 5 Cross Training,4.5,56.0,Puma,Men
+PUMA Men's Softride Sophia,3.9,35.0,Puma,Men
+PUMA Men's Softride Symmetry Fuzion,4.6,60.0,Puma,Men
+PUMA Men's Sport,4.4,40.0,Puma,Men
+PUMA Men's St Miler,4.7,58.0,Puma,Men
+PUMA Men's Tazon 6,4.3,61.0,Puma,Men
+PUMA Men's Tazon 6 Cross Trainer,4.5,51.0,Puma,Men
+PUMA Men's Twitch Runner,4.4,40.0,Puma,Men
+PUMA Men's Velocity Nitro,3.8,140.0,Puma,Men
+PUMA Men's Velocity Nitro 3,4.4,99.0,Puma,Men
+PUMA Men's Viz Runner Cross-trainer,4.4,46.0,Puma,Men
+PUMA Mens All-pro Nitro,4.4,60.0,Puma,Men
+PUMA Mens Catch,4.7,65.0,Puma,Men
+PUMA Mens Cell Divide - Black,4.5,40.0,Puma,Men
+PUMA Mens Cell Thrill - Red,3.3,50.0,Puma,Men
+PUMA Mens Cell Vive Bright - White,3.9,40.0,Puma,Men
+PUMA Mens Club 5v5,4.3,40.0,Puma,Men
+PUMA Mens Electrify Nitro 4,5.0,79.0,Puma,Men
+PUMA Mens Flexfocus Lite Modern Training - Grey,5.0,35.0,Puma,Men
+PUMA Mens Foreverrun Nitro Futrograde - Black,4.8,105.0,Puma,Men
+PUMA Mens Hyperdrive Profoam Speed - Blue - Size 10 M,5.0,13.0,Puma,Men
+PUMA Mens Magmax Nitro Terrains - Green,4.8,180.0,Puma,Men
+PUMA Mens Magnify Nitro - Grey,5.0,50.0,Puma,Men
+PUMA Mens Pacer 23,4.6,40.0,Puma,Men
+PUMA Mens Pulse Pro,4.6,59.0,Puma,Men
+PUMA Mens Redon Bungee Slip On Casual - White,4.3,33.0,Puma,Men
+PUMA Mens Redon Move,4.2,44.0,Puma,Men
+PUMA Mens Reflect Lite TrailSneaker,4.6,51.0,Puma,Men
+PUMA Mens Road Rider Suede Lace Up Casual - Blue,4.6,50.0,Puma,Men
+PUMA Mens Rocket Fuel Lite - Grey,4.5,7.0,Puma,Men
+PUMA Mens Softride Enzo EvoSneaker,4.4,35.0,Puma,Men
+PUMA Mens Softride Rift Bold 2.0 - Beige,5.0,50.0,Puma,Men
+PUMA Mens Softride Sway - Grey - Size 10.5 M,5.0,35.0,Puma,Men
+PUMA Mens Softride Sway - Grey - Size 13 M,5.0,35.0,Puma,Men
+PUMA Mens Spirex Horizon - Green,5.0,50.0,Puma,Men
+PUMA Mens St Runner V3 Lace Up Casual - Black,4.4,60.0,Puma,Men
+PUMA Mens Transport Cage - Black,4.8,24.0,Puma,Men
+PUMA Mens Twitch Runner - Black,4.4,40.0,Puma,Men
+PUMA Mens Twitch Runner Camo - Black,4.4,40.0,Puma,Men
+PUMA Mens Vis2k,4.3,52.0,Puma,Men
+PUMA Mens Voltaic Evo Cross Trainer,4.4,51.0,Puma,Men Men
+PUMA Mens Voyage Nitro 2 - Blue,4.3,40.0,Puma,Men
+PUMA Mens X Cell Lightspeed - Grey,4.8,45.0,Puma,Men
+PUMA Mens X Cell Uprise - Grey,5.0,35.0,Puma,Men
+PUMA Rift Slip On All Over Print,4.2,41.0,Puma,Unisex
+PUMA Unisex-Child Attacanto Indoor Training Soccer,4.7,32.0,Puma,Unisex
+PUMA Unisex-Child Pacer Future Allure,4.4,26.0,Puma,Unisex
+PUMA Unisex-Child Pacer Future Hook and LoopSneaker,4.2,25.0,Puma,Unisex
+PUMA Unisex-Child Pacer Next Exel Mesh Slip on,4.4,48.0,Puma,Unisex
+PUMA Unisex-Child Rebound Future Next Gen,4.6,30.0,Puma,Unisex
+PUMA Unisex-Child Roma,4.7,45.0,Puma,Unisex
+PUMA Unisex-Child Softride Enzo Alternative Closure,4.5,35.0,Puma,Unisex
+PUMA Unisex-Child Softride One4all Jurassic World Slip on,4.6,64.0,Puma,Unisex
+PUMA Unisex-Child Softride One4all Slip on,4.1,41.0,Puma,Unisex
+PUMA Unisex-Child St Runner Hook and Loop,4.5,41.0,Puma,Unisex
+PUMA Women's Amplifier,4.4,35.0,Puma,Women
+PUMA Women's Axelion,4.4,19.0,Puma,Women
+PUMA Women's Club 5v5,4.4,61.0,Puma,Women
+PUMA Women's Flexfocus Lite Better Knit Cross Training,4.4,35.0,Puma,Women
+PUMA Women's Foreverrun Nitro,3.7,95.0,Puma,Women
+PUMA Women's Graviton,4.4,49.0,Puma,Women
+PUMA Women's Hypnotic Leather,4.6,52.0,Puma,Women Women
+PUMA Women's Pacer 23,4.6,53.0,Puma,Women
+PUMA Women's Pulse Pro,4.4,54.0,Puma,Women
+PUMA Women's Riaze Prowl Cross Trainer,4.4,50.0,Puma,Women
+PUMA Women's Softride Harli Slip-on Cross Training,4.0,28.0,Puma,Women
+PUMA Women's Softride Harmony Cross Training,4.5,66.0,Puma,Women
+PUMA Women's St Miler,4.7,68.0,Puma,Women Women
+PUMA Women's Velocity Nitro 3,4.7,136.0,Puma,Women
+PUMA Women's Voltaic Evo Cross Trainer,4.4,65.0,Puma,Women
+PUMA Women's Voltaic Evo Cross Training,4.4,65.0,Puma,Women
+PUMA Womens Cell Lightspeed - Black,5.0,35.0,Puma,Women
+PUMA Womens Cell Phase Femme - Black,4.4,13.0,Puma,Women
+PUMA Womens Contempt Demi,4.3,40.0,Puma,Women
+PUMA Womens Darter Pro,4.6,57.0,Puma,Women
+PUMA Womens Fier Nitro Tonal Lace Up Casual - Pink - Size 6.5 M,5.0,35.0,Puma,Women
+PUMA Womens Prowl Slip-on Shine Wn'sCross Trainer,4.7,51.0,Puma,Women
+PUMA Womens Riaze Prowl,4.4,65.0,Puma,Women
+PUMA Womens Run Xx Nitro - Black,4.0,55.0,Puma,Women
+PUMA Womens Softride Frequence,3.5,73.0,Puma,Women
+PUMA Womens Softride Harli Slip on Training,4.4,50.0,Puma,Women
+PUMA Womens Softride Mayve,4.5,50.0,Puma,Women
+PUMA Womens Twitch RunnerSneaker,4.4,30.0,Puma,Women
+PUMA Womens Velocity Nitro 3 Hyrox - White,5.0,130.0,Puma,Women
+Puma Unisex-Child Softride One4all Slip on,3.0,48.0,Puma,Unisex
+Puma Unisex-Child Voltaic Evo Cross Training,5.0,44.0,Puma,Unisex
+Puma Women's Better Foam Prowl Slip on,4.4,40.0,Puma,Women
+Puma Women's Tazon 6 Graphic Lace Up,4.4,50.0,Puma,Women
+Reebok Boy's Court Advance,4.8,31.0,Reebok,Unisex
+Reebok Boy's Road Supreme 4.0,4.5,39.0,Reebok,Unisex
+Reebok Boy's XT Sprinter Slip-On,4.5,41.0,Reebok,Unisex Unisex
+Reebok Campio XT Mens,4.4,40.0,Reebok,Men
+Reebok Classic Nylon Mens Tennis,4.6,48.0,Reebok,Men
+Reebok Club C Revenge Unisex,4.5,45.0,Reebok,Unisex
+Reebok Floatzig for Men,4.6,64.0,Reebok,Men Men
+Reebok Girl's Club C Extra,4.8,66.0,Reebok,Unisex
+Reebok Men's,4.2,43.0,Reebok,Men
+Reebok Men's Cityride,4.7,40.0,Reebok,Men
+Reebok Men's Classic Leather,4.5,39.0,Reebok,Men
+Reebok Men's Classic Nylon,4.7,60.0,Reebok,Men Men Men
+Reebok Men's Club C Vintage Tennis,4.2,67.0,Reebok,Men
+Reebok Men's Club Memt Gum Classic,4.5,30.0,Reebok,Men
+Reebok Men's Flexagon Energy Tr 4,4.6,50.0,Reebok,Men
+Reebok Men's Floatride Energy 3.0,4.4,45.0,Reebok,Men
+Reebok Men's Floatride Energy 4.0 Adventure,4.4,63.0,Reebok,Men
+Reebok Men's Floatride Energy 5,3.9,50.0,Reebok,Men
+Reebok Men's Floatride Run 2.0,4.2,60.0,Reebok,Men
+Reebok Men's Fluxlite Cross Trainer,4.9,36.0,Reebok,Men
+Reebok Men's Lite Plus 3,4.0,58.0,Reebok,Men
+Reebok Men's NFX Cross Training,4.6,55.0,Reebok,Men
+Reebok Men's Nano Gym,4.6,76.0,Reebok,Men Men
+Reebok Men's Nanoflex 2,4.6,81.0,Reebok,Men
+Reebok Men's Nfx Trainer,4.6,60.0,Reebok,Men
+Reebok Men's Rb4041 Sublite Cushion Safety Toe Athletic Work Black,4.2,98.0,Reebok,Men
+Reebok Men's Runner 5.0,4.4,60.0,Reebok,Men
+Reebok Men's TRAINFUSION NINE 2.0 L MT,4.2,59.0,Reebok,Men
+Reebok Men's Ultra 7 DMX Max Walking,4.1,53.0,Reebok,Men
+Reebok Men's Walk Ultra 7 DMX Max Walking,4.2,53.0,Reebok,Men
+Reebok Men's Workout Plus,4.4,85.0,Reebok,Men
+Reebok Men's ZigWild TR 6 Runners,4.5,71.0,Reebok,Men
+Reebok Men's Zignition,4.4,66.0,Reebok,Men
+Reebok Men's Ztaur,4.2,66.0,Reebok,Men
+Reebok Mens Flexagon Energy 4 Lace-Up Padded Insole & Training,4.4,67.0,Reebok,Men
+Reebok Mens Lifter Pr Iii,4.4,99.0,Reebok,Men
+Reebok Mens Nano X2 TR Adventure Fitness Outdoor Athletic and Training,4.5,81.0,Reebok,Men Men
+Reebok Mens Nano X2 TR Adventure Outdoor Fitness Athletic and Training,4.3,53.0,Reebok,Men
+Reebok Mens Rb409 Sublite Cushion Work Safety Athletic Composite Toe Black,4.3,75.0,Reebok,Men
+Reebok Mens Rewind Run Fitness Gym,4.5,59.0,Reebok,Men
+Reebok Nano 2.0,4.6,74.0,Reebok,Unisex
+Reebok Nano X4 Mens,4.2,99.0,Reebok,Men
+Reebok Nano X5 Mens,4.4,140.0,Reebok,Men
+Reebok Unisex Adult Nano X3 Froning Cross-Training,4.2,76.0,Reebok,Unisex
+Reebok Unisex Adult Zig Dynamica 4,4.5,37.0,Reebok,Unisex
+Reebok Unisex Club C Revenge,3.0,59.0,Reebok,Men
+Reebok Unisex-Adult DMX Comfort + 2.0,4.5,53.0,Reebok,Unisex
+Reebok Unisex-Adult Energen Tech Plus,4.5,46.0,Reebok,Unisex
+Reebok Unisex-Adult Floatride Energy Century Grow,4.3,31.0,Reebok,Unisex Unisex
+Reebok Unisex-Adult Nano 6000 Cross Trainer,4.4,33.0,Reebok,Unisex
+Reebok Unisex-Adult Nano Court,4.0,83.0,Reebok,Unisex
+Reebok Unisex-Adult Nano Zero,4.8,99.0,Reebok,Unisex
+Reebok Unisex-Adult Retro Mega,4.5,44.0,Reebok,Unisex
+Reebok Unisex-Adult Road Prime,3.8,80.0,Reebok,Unisex
+Reebok Unisex-Adult Speed 22 Tr,4.4,33.0,Reebok,Unisex
+Reebok Unisex-Adult Zig Dynamica Str,4.4,55.0,Reebok,Unisex
+Reebok Women's Classic Harman,4.4,29.0,Reebok,Women
+Reebok Women's Classic Nylon,4.4,50.0,Reebok,Women
+Reebok Women's Classic Renaissance,4.3,66.0,Reebok,Women
+Reebok Women's Club C 85,4.1,46.0,Reebok,Women
+Reebok Women's Club C Double Revenge,4.6,66.0,Reebok,Women
+Reebok Women's Club C Grounds UK,4.4,48.0,Reebok,Women
+Reebok Women's Energen Tech Plus,3.9,56.0,Reebok,Women
+Reebok Women's Energen Tech Plus 2,4.4,73.0,Reebok,Women
+Reebok Women's Flexagon Energy Tr 4,3.9,59.0,Reebok,Women
+Reebok Women's Floatzig,4.3,71.0,Reebok,Women
+Reebok Women's Gl1100,4.3,50.0,Reebok,Women
+Reebok Women's Glide,4.4,45.0,Reebok,Women
+Reebok Women's HIIT Tr 3 Training,4.2,50.0,Reebok,Women
+Reebok Women's Katura Onlux Walking,4.5,40.0,Reebok,Women
+Reebok Women's Lavante,4.4,67.0,Reebok,Women
+Reebok Women's Lavante 2,4.5,51.0,Reebok,Women
+Reebok Women's NFX Trainer,4.5,50.0,Reebok,Women
+Reebok Women's Nano Gym,4.4,76.0,Reebok,Women
+Reebok Women's Nano X3 Mesh,4.5,68.0,Reebok,Women
+Reebok Women's Nano X4,4.0,96.0,Reebok,Women
+Reebok Women's Nano X5,4.6,120.0,Reebok,Women
+Reebok Women's RBK Premier Road Plus VI,4.3,50.0,Reebok,Women
+Reebok Women's Rewind Run,4.6,41.0,Reebok,Women
+Reebok Women's Spark Run,4.0,40.0,Reebok,Women
+Reebok Women's Walk Ultra 7 DMX Max,4.2,52.0,Reebok,Women
+Reebok Women's Work N Cushion Non Slip Work,3.8,61.0,Reebok,Women
+Reebok Women's Zig Dynamica,4.2,70.0,Reebok,Women
+Reebok Women's Zig Dynamica 5,4.5,27.0,Reebok,Women
+Reebok Women's Zig Dynamica STR,5.0,45.0,Reebok,Women
+Reebok Women's Zignition,4.5,66.0,Reebok,Women
+Reebok Women's Ztaur,4.3,58.0,Reebok,Women
+Reebok Womens Club C 85 V1,4.2,38.0,Reebok,Women
+Reebok Womens DMX Comfort + Slip-on,4.4,75.0,Reebok,Women
+Reebok Womens Energen Plus,4.6,56.0,Reebok,Women
+Reebok Womens Energen Run 4 for Women,4.5,47.0,Reebok,Women
+Reebok Womens Foatride Energy Lace-Up & Training,4.3,45.0,Reebok,Women
+Reebok Womens Lite Plus 3.0 Ortholite & Training,4.2,40.0,Reebok,Women
+Reebok Womens Princess Signature Casual,4.4,36.0,Reebok,Women
+Reebok Womens Zig Dynamica Str,4.6,56.0,Reebok,Women
+Reebok Work Nano Tactical Men's Boot,3.9,76.0,Reebok,Men
+Reebok Work Zig Pulse Work CT Men's Oxford,3.8,50.0,Reebok,Men
+Reebok Zig Dymanica 5 for Women,4.3,70.0,Reebok,Women
+Reebok Zignition for Men,4.8,66.0,Reebok,Men
+Reebok Zignition for Women,4.2,66.0,Reebok,Women
+Reebok womens,4.4,43.0,Reebok,Unisex
+adidas Baby Lite Racer Adapt 7.0,4.6,40.0,Adidas,Unisex
+adidas Baby-Boy's Ubounce DNA,4.6,45.0,Adidas,Unisex
+adidas Boys' Racer Tr23,4.6,32.0,Adidas,Unisex
+adidas Boys' Ultradream Dna Elastic Lace,4.5,43.0,Adidas,Unisex
+adidas Men's,4.5,55.0,Adidas,Men
+adidas Men's Adizero Evo Sl M,4.5,151.0,Adidas,Men
+adidas Men's Alphaboost V2,4.4,60.0,Adidas,Men
+adidas Men's Amplimove Training,4.4,50.0,Adidas,Men
+adidas Men's Astrastar,4.7,76.0,Adidas,Men
+adidas Men's Avery,4.3,45.0,Adidas,Men
+adidas Men's Barreda Decode,4.6,40.0,Adidas,Men
+adidas Men's Cloudfoam Comfy Elastic Lace,4.7,48.0,Adidas,Men
+adidas Men's CrazyChaos 2000,4.5,55.0,Adidas,Men
+adidas Men's Duramo Sl,4.5,46.0,Adidas,Men
+adidas Men's Grand Court 2.0 Tennis,4.7,50.0,Adidas,Men
+adidas Men's Kantai,4.7,55.0,Adidas,Men
+adidas Men's Kaptir 3.0,4.5,57.0,Adidas,Men
+adidas Men's Kaptir 4.0,4.4,90.0,Adidas,Men
+adidas Men's Lightblaze,4.8,68.0,Adidas,Men
+adidas Men's Lightblaze Glow,4.5,67.0,Adidas,Men
+adidas Men's Lite Racer 3.0,4.4,51.0,Adidas,Men
+adidas Men's Lite Racer 4.0,4.5,42.0,Adidas,Men
+adidas Men's Pureboost 5,4.4,76.0,Adidas,Men
+adidas Men's Racer TR23,4.5,55.0,Adidas,Men
+adidas Men's Racer Tr23,4.6,54.0,Adidas,Men
+adidas Men's Response,4.6,60.0,Adidas,Men
+adidas Men's Run 70s 2.0,4.2,64.0,Adidas,Men
+adidas Men's Run 72,4.2,70.0,Adidas,Men
+adidas Men's Run 80s,4.6,51.0,Adidas,Men
+adidas Men's Run 84,4.4,57.0,Adidas,Men
+adidas Men's Run Falcon 3.0,4.5,41.0,Adidas,Men
+adidas Men's Run Falcon 5,4.4,49.0,Adidas,Men Men
+adidas Men's Runfalcon 2.0,4.6,45.0,Adidas,Men
+adidas Men's Samoa Retro,4.6,55.0,Adidas,Men
+adidas Men's Supernova 3,4.4,55.0,Adidas,Men
+adidas Men's Supernova Ease,4.0,83.0,Adidas,Men
+adidas Men's Supernova Prima,4.6,85.0,Adidas,Men
+adidas Men's Swift Run Gymnastics,4.5,81.0,Adidas,Men
+adidas Men's Terrex Anylander Hiking,4.5,54.0,Adidas,Men
+adidas Men's Terrex Free 2 Low Gtx Hiking,4.1,91.0,Adidas,Men
+adidas Men's Terrex Soulstride Flow,4.5,84.0,Adidas,Men
+adidas Men's Terrex Tracefinder,4.3,71.0,Adidas,Men
+adidas Men's Ultraboost 1.0,4.4,180.0,Adidas,Men
+adidas Men's Ultraboost 22,4.6,150.0,Adidas,Men
+adidas Men's Ultraboost 5,4.3,111.0,Adidas,Men
+adidas Men's Ultraboost Light,4.4,57.0,Adidas,Men
+adidas Men's Ultrabounce,4.5,52.0,Adidas,Men
+adidas Men's Ultrabounce 5,4.6,49.0,Adidas,Men
+adidas Men's Ultradream DNA,4.5,67.0,Adidas,Men
+adidas Men's Vl Court 3.0,4.6,50.0,Adidas,Men
+adidas Men's X_PLR Boost,4.5,60.0,Adidas,Men
+adidas Men's X_PLR Path,4.6,65.0,Adidas,Men
+adidas Mens Adistar 3,4.4,80.0,Adidas,Men
+adidas Mens Alphaboost Knit Performance ShoesRunning,4.4,53.0,Adidas,Men
+adidas Mens Kaptir 3.0,4.4,63.0,Adidas,Men
+adidas Mens Swift Run 22,4.3,33.0,Adidas,Men
+adidas Mens Terrex Soulstride,4.6,53.0,Adidas,Men
+adidas Mens Ultraboost 22 Heat.rdy ShoesRunning,4.6,60.0,Adidas,Men
+adidas Mens Ultraboost 23,4.3,90.0,Adidas,Men
+adidas Mens Ultraboost 5X,4.1,144.0,Adidas,Men Men
+adidas Mens X_PLR Path,4.4,47.0,Adidas,Men
+adidas Originals Men's 70s 2.0,4.5,42.0,Adidas,Men
+adidas Originals Men's Samoa,4.6,65.0,Adidas,Men
+adidas Originals Women's Adilette Slide,4.4,45.0,Adidas,Women
+adidas Originals Women's Terrex Tracefinder,4.1,64.0,Adidas,Women
+adidas Toddler Boys Runfalcon 5 Slip On Casual - Black,4.6,46.0,Adidas,Unisex
+adidas Unisex-Adult NCAA 25/26 Team Alphaboost V2,4.0,37.0,Adidas,Unisex
+adidas Unisex-Adult Pureboost 22,4.4,50.0,Adidas,Unisex
+adidas Unisex-Adult Turnaround,4.4,38.0,Adidas,Unisex
+adidas Unisex-Adult Vulcraid3r Slip on,3.9,46.0,Adidas,Unisex
+adidas Unisex-Child Duramo Sl 2 Elastic Lace & Strap,4.7,34.0,Adidas,Unisex
+adidas Unisex-Child Duramo Sl Elastic Lace,4.7,50.0,Adidas,Unisex
+adidas Unisex-Child Duramo Sl Elastic Lace & Strap,4.6,41.0,Adidas,Unisex
+adidas Unisex-Child Kaptir Flow 2.0,4.7,54.0,Adidas,Unisex
+adidas Unisex-Child Marvel Run Falcon 5 Elastic Lace & Strap,4.6,40.0,Adidas,Unisex
+adidas Unisex-Child Marvel Run Falcon Elastic Lace & Strap,4.5,39.0,Adidas,Unisex
+adidas Unisex-Child Run Falcon 5,4.5,40.0,Adidas,Unisex Unisex
+adidas Unisex-Child Run Falcon 5 Elastic Lace & Strap,5.0,45.0,Adidas,Unisex
+adidas Unisex-Child Supernova Step,5.0,33.0,Adidas,Unisex
+adidas Unisex-Child Swift Run 23,4.6,49.0,Adidas,Unisex
+adidas Unisex-Child Ultrabounce 5 Elastic Lace,4.7,44.0,Adidas,Unisex
+adidas Unisex-Child Ultrarun 5,3.7,39.0,Adidas,Unisex
+adidas Unisex-Child Ultrarun 5 Elastic Lace & Strap,4.6,38.0,Adidas,Unisex
+adidas Unisex-Child X_PLR,4.4,50.0,Adidas,Unisex
+adidas Unisex-Child X_PLR Path Elastic Lace & Strap,4.7,51.0,Adidas,Unisex
+adidas Women's 70s,4.1,40.0,Adidas,Women
+adidas Women's Adizero Boston 12,4.6,119.0,Adidas,Women
+adidas Women's Adizero Instinct Turf Trainer Softball,4.6,33.0,Adidas,Women
+adidas Women's Astrastar,4.1,75.0,Adidas,Women
+adidas Women's Breaknet Sleek,4.4,66.0,Adidas,Women
+adidas Women's Cloudfoam Pure,4.4,66.0,Adidas,Women
+adidas Women's Crazychaos 2000,4.6,60.0,Adidas,Women
+adidas Women's Duramo SL,4.6,32.0,Adidas,Women
+adidas Women's Eq21,4.5,54.0,Adidas,Women
+adidas Women's Eq21 Run,4.4,46.0,Adidas,Women
+adidas Women's Grand Court Alpha 00s,4.6,41.0,Adidas,Women
+adidas Women's Kantai,4.7,80.0,Adidas,Women
+adidas Women's Kaptir Flow,4.5,48.0,Adidas,Women
+adidas Women's Lightshift,4.6,48.0,Adidas,Women
+adidas Women's Lite Racer 2.0,4.6,43.0,Adidas,Women
+adidas Women's Lite Racer 4.0,4.6,39.0,Adidas,Women
+adidas Women's Pureboost 5,4.6,96.0,Adidas,Women
+adidas Women's Puremotion Adapt,4.4,53.0,Adidas,Women
+adidas Women's Response,4.5,56.0,Adidas,Women Women
+adidas Women's Run Falcon 5,4.5,55.0,Adidas,Women Women
+adidas Women's Ubounce DNA,4.5,70.0,Adidas,Women
+adidas Women's Ultraboost 1.0 Sustain,4.3,90.0,Adidas,Women
+adidas Women's Ultraboost 22,4.5,92.0,Adidas,Women
+adidas Women's Ultraboost 23,4.4,92.0,Adidas,Women
+adidas Women's Ultradream Bold,4.5,71.0,Adidas,Women
+adidas Womens Break Start,4.3,45.0,Adidas,Women
+adidas Womens Cloudfoam Pure Sportswear SneakersSneaker,4.3,54.0,Adidas,Women
+adidas Womens Cloudfoam Pure SportswearSneaker,4.3,40.0,Adidas,Women
+adidas Womens Everyset Versatile Training - Black,4.3,55.0,Adidas,Women
+adidas Womens Kaptir Flow,4.5,41.0,Adidas,Women
+adidas Womens Run 72,4.4,54.0,Adidas,Women
+adidas Womens Supernova Stride,4.3,75.0,Adidas,Women
+adidas Womens Terrex Trailmaker 2.0 Leather Hiking,4.0,33.0,Adidas,Women
+adidas Womens Ultrarun 5,4.4,59.0,Adidas,Women
+adidas Womens X_PLR Path,4.4,60.0,Adidas,Women
+adidas Womens X_PLR Phase,4.3,41.0,Adidas,Women
