@@ -36,17 +36,18 @@ Proyek ini bertujuan untuk membangun sistem rekomendasi sepatu lari menggunakan 
 
 Dataset yang digunakan dalam project ini diperoleh dari hasil scraping pada sebuah website ecommerce Amazon dengan menggunakan kata kunci *"{brand} running shoes"* untuk brand Nike, Adidas, PUMA, Reebok, dan New Balance. Dataset yang dikumpulkan adalah nama produk, rating, harga, gambar produk, brand, customer say, dan reviews.
 
-Dataset produk terdiri dari 7 kolom dan 783 baris.
+Dataset bersih terdiri dari 8 kolom dan 609 baris.
 
 | Index | Nama Kolom | Tipe Data |
 | --- | --- | --- |
-| 1 | Nama produk | String |
-| 2 | Rating | Float | 
-| 3 | Price | Float |
-| 4 | Img_url | String |
-| 5 | Brand | String |
-| 6 | Customer say | String |
-| 7 | Reviews | String |
+| 1 | product | String |
+| 2 | img_url | String | 
+| 3 | customer_say | String |
+| 4 | review | String |
+| 5 | price | Float |
+| 6 | rating | Float |
+| 7 | brand | String |
+| 8 | gender | String |
 
 ## ⚙️ Methods
 
